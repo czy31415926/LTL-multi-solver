@@ -1,4 +1,4 @@
-# LTL-solver
+# LTL-multi-solver
 It is a general task planer for tasks defined by the linear temporal logic (LTL).
 
 PDT (Planning decision tree) is for the local optimal task plan.
