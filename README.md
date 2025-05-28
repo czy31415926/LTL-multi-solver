@@ -1,5 +1,5 @@
 # LTL-multi-solver
-It is a general task planer for tasks defined by the linear temporal logic (LTL).
+It is a general task planer of multi-agent for tasks defined by the linear temporal logic (LTL).
 
 PDT (Planning decision tree) is for the local optimal task plan.
 FDT (Filter decision tree) is for the global optimla task plan.
